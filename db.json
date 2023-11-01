@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": 123,
+      "name": "Shyam Sharki",
+      "photo": "https://cdn-icons-png.flaticon.com/512/666/666201.png",
+      "mobile": "999990234",
+      "email": "rajan@gmail.com",
+      "title": "Software Engineer",
+      "company": "HCL Technology",
+      "groupId": 1
+    },
+    {
+      "id": 789,
+      "name": "Alice",
+      "photo": "https://static-00.iconduck.com/assets.00/user-icon-2048x2048-ihoxz4vq.png",
+      "mobile": "123456789",
+      "email": "alice@example.com",
+      "title": "Designer",
+      "company": "DesignCo",
+      "groupId": 3
+    },
+    {
+      "id": 12,
+      "name": "Michael",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1656px-User_icon-cp.svg.png",
+      "mobile": "987654321",
+      "email": "michael@example.com",
+      "title": "Marketing Specialist",
+      "company": "MarketPro",
+      "groupId": 4
+    },
+    {
+      "id": 345,
+      "name": "Sara",
+      "photo": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg",
+      "mobile": "111112222",
+      "email": "sara@example.com",
+      "title": "Data Analyst",
+      "company": "DataTech",
+      "groupId": 5
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Colleague"
+    },
+    {
+      "id": 2,
+      "name": "Friend"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Service"
+    },
+    {
+      "id": 5,
+      "name": "Community"
+    },
+    {
+      "id": 6,
+      "name": "Social"
+    }
+  ]
+}
